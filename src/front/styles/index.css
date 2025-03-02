@@ -1,3 +1,19 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+
+.navbar {
+    background-color: rgb(249, 249, 249);
+    padding: 20px 0px;
+}
+.logo {
+    width: 80px;
+    height: 60px;
+}
+.cards-scroll {
+    overflow-x: scroll; 
+}
+.card {
+    max-width: 300px;
+    min-width: 300px;
+
+    margin-right: 30px;
+    margin-bottom: 25px;
+}
